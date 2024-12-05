@@ -5,5 +5,5 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=650&height=100&lines=David+Meza;Desarrollador+de+Software+Full+Stack">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=650&height=100&lines=David+Meza;Full+Stack+Software+Developer">
 </div>
